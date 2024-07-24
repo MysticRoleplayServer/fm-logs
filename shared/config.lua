@@ -5,7 +5,7 @@ Config = {
 
     -- Framework for logging player names
     -- Standalone uses server player name
-    Framework = "standalone", -- "qb" | "esx" | "standalone"
+    Framework = "qb", -- "qb" | "esx" | "standalone"
 
     -- Event prefixes
     ClientEventPrefix = GetCurrentResourceName() .. ":Client:",
